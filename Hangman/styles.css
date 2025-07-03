@@ -1,0 +1,22 @@
+body {
+    font-family:monospace;
+    text-align: center;
+    padding:2rem
+}
+
+#letterInput {
+    font-size:2rem;
+    width:2rem;
+    text-align:center;
+}
+
+#startBtn {
+    padding:0.5rem 1rem;
+    font-size:1rem;
+    margin-button:1rem;
+}
+
+#wordDisplay {
+  font-family: monospace;
+  letter-spacing: 0.5em;
+}
