@@ -9,8 +9,13 @@ const wordList = [
     "Fever", 
     "Thermodynamics", 
     "Ceiling", 
-    "Ten"
-    "Jollibee"
+    "Ten",
+    "Jollibee",
+    "TickleMonster",
+    "George",
+    "BestFriend",
+    "Peace",
+    "Remembrance"
 ];
 
 let selectWord="";
