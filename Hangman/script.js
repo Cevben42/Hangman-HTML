@@ -15,7 +15,13 @@ const wordList = [
     "George",
     "BestFriend",
     "Peace",
-    "Remembrance"
+    "Remembrance",
+    "Pumpkin",
+    "Squash",
+    "Gourd",
+    "Creepjoiner",
+    "Yttakin",
+    "Exterminatus"
 ];
 
 let selectWord="";
