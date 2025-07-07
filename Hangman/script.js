@@ -21,7 +21,11 @@ const wordList = [
     "Gourd",
     "Creepjoiner",
     "Yttakin",
-    "Exterminatus"
+    "Exterminatus",
+    "Cinnamon",
+    "Cupcake",
+    "Baguette",
+    "Cocoa"
 ];
 
 let selectWord="";
