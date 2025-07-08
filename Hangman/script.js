@@ -35,7 +35,12 @@ const wordList = [
     "Computer",
     "Charger",
     "HDMI",
-    "kernel"
+    "kernel",
+    "Dyson",
+    "star",
+    "Ecumenopolis",
+    "relic",
+    "Hydroponics"
 ];
 
 let selectWord="";
