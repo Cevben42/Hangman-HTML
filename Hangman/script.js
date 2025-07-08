@@ -26,6 +26,16 @@ const wordList = [
     "Cupcake",
     "Baguette",
     "Cocoa"
+    "laptop",
+    "Mousepad",
+    "Keyboard",
+    "Speaker",
+    "Motherboard",
+    "Touchscreen",
+    "Computer",
+    "Charger",
+    "HDMI",
+    "kernel"
 ];
 
 let selectWord="";
