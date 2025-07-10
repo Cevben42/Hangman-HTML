@@ -40,7 +40,13 @@ const wordList = [
     "star",
     "Ecumenopolis",
     "relic",
-    "Hydroponics"
+    "Hydroponics",
+    "Morning",
+    "Afternoon",
+    "Dusk",
+    "LampShade",
+    "GreenHouse",
+    "Door"
 ];
 
 let selectWord="";
