@@ -46,7 +46,11 @@ const wordList = [
     "Dusk",
     "LampShade",
     "GreenHouse",
-    "Door"
+    "Door",
+    "Duke",
+    "Confederation",
+    "Diplomacy",
+    "Advance"
 ];
 
 let selectWord="";
