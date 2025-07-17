@@ -50,7 +50,11 @@ const wordList = [
     "Duke",
     "Confederation",
     "Diplomacy",
-    "Advance"
+    "Advance",
+    "Change",
+    "Large",
+    "Colossal",
+    "Pomegranate"
 ];
 
 let selectWord="";
