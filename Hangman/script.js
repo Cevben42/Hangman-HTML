@@ -54,7 +54,10 @@ const wordList = [
     "Change",
     "Large",
     "Colossal",
-    "Pomegranate"
+    "Pomegranate",
+    "Multiple",
+    "Numerous",
+    "Infinite",
 ];
 
 let selectWord="";
