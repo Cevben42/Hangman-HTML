@@ -58,6 +58,10 @@ const wordList = [
     "Multiple",
     "Numerous",
     "Infinite",
+    "Setting",
+    "Pillow",
+    "Determination",
+    "Persistence"
 ];
 
 let selectWord="";
