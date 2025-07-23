@@ -61,7 +61,9 @@ const wordList = [
     "Setting",
     "Pillow",
     "Determination",
-    "Persistence"
+    "Persistence",
+    "Judgement",
+    "Advocate"
 ];
 
 let selectWord="";
