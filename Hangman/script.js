@@ -63,7 +63,13 @@ const wordList = [
     "Determination",
     "Persistence",
     "Judgement",
-    "Advocate"
+    "Advocate",
+    "Turbine",
+    "Solar",
+    "Hydroelectric",
+    "Green",
+    "Geothermal",
+    "Recycle"
 ];
 
 let selectWord="";
