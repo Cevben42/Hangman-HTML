@@ -69,7 +69,12 @@ const wordList = [
     "Hydroelectric",
     "Green",
     "Geothermal",
-    "Recycle"
+    "Recycle".
+    "Stopwatch",
+    "inspiration",
+    "clarity",
+    "potential",
+    "Study"
 ];
 
 let selectWord="";
