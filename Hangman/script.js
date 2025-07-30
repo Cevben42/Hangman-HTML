@@ -74,7 +74,10 @@ const wordList = [
     "inspiration",
     "clarity",
     "potential",
-    "Study"
+    "Study",
+    "More",
+    "Plenty",
+    "Bountiful"
 ];
 
 let selectWord="";
