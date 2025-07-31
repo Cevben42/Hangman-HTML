@@ -77,7 +77,10 @@ const wordList = [
     "Study",
     "More",
     "Plenty",
-    "Bountiful"
+    "Bountiful",
+    "Progress",
+    "Stride",
+    "Journey"
 ];
 
 let selectWord="";
