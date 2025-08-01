@@ -80,7 +80,10 @@ const wordList = [
     "Bountiful",
     "Progress",
     "Stride",
-    "Journey"
+    "Journey",
+    "Unwanted",
+    "Broom",
+    "Seedling"
 ];
 
 let selectWord="";
