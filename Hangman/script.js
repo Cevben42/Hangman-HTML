@@ -88,7 +88,9 @@ const wordList = [
     "Oblivion",
     "Satisfied",
     "John",
-    "Steve"
+    "Steve",
+    "Marcus",
+    "Adolf"
 ];
 
 let selectWord="";
@@ -161,5 +163,6 @@ startBtn.addEventListener("click", () =>
     input.value="";
 }
 );
+
 
 
