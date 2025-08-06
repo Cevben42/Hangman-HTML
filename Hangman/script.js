@@ -86,7 +86,9 @@ const wordList = [
     "Seedling",
     "Anonymous",
     "Oblivion",
-    "Satisfied"
+    "Satisfied",
+    "John",
+    "Steve"
 ];
 
 let selectWord="";
@@ -159,4 +161,5 @@ startBtn.addEventListener("click", () =>
     input.value="";
 }
 );
+
 
