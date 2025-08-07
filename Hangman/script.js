@@ -90,7 +90,9 @@ const wordList = [
     "John",
     "Steve",
     "Marcus",
-    "Adolf"
+    "Adolf",
+    "Cheating",
+    "Shame"
 ];
 
 let selectWord="";
@@ -163,6 +165,7 @@ startBtn.addEventListener("click", () =>
     input.value="";
 }
 );
+
 
 
 
