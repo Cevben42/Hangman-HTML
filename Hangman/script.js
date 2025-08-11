@@ -95,7 +95,9 @@ const wordList = [
     "Shame",
     "John",
     "Something",
-    "Overall"
+    "Overall",
+    "Chair",
+    "Recliner"
 ];
 
 let selectWord="";
@@ -168,6 +170,7 @@ startBtn.addEventListener("click", () =>
     input.value="";
 }
 );
+
 
 
 
